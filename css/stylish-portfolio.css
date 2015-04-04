@@ -220,7 +220,7 @@ hr.small {
     
 	padding: 50px 50px;
     position: absolute;
-    z-index: 1;
+   overflow-y: scroll;
 }
 .portfolio-item {
     margin-bottom: 30px;
